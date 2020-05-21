@@ -2,7 +2,7 @@
 
 点击视频 https://github.com/gofanben/gm/blob/master/swsp.md
 
-<div align="center"><a href="https://git.io/hzhen"><IMG SRC="https://github.com/ofn1/Victoria/blob/master/fngrchn3.jpg" width=640></a>
+***
 
 为持续能看到真实信息，请記下汇真网短链接：https://git.io/hzhen，并下载「无界浏览」与「自由门」「神州明见」等破网工具
 
@@ -19,3 +19,5 @@
 [●环门（安卓版034)●](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.1/oGatea.apk)
 
 [●环门（电脑版038)●](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.1/oGate.zip)
+
+<div align="center"><a href="https://git.io/hzhen"><IMG SRC="https://github.com/ofn1/Victoria/blob/master/fngrchn3.jpg" width=640></a>
