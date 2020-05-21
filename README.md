@@ -6,8 +6,8 @@
 
 无界浏览（安卓版4.8）http://wujieliulan.com/download/um.apk
 
-自由门（电脑版7.80）http://dongtaiwang.com/loc/software/fg/780/fg780p.zip
+[自由门（电脑版7.80）](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.0/fg780p.zip)
 
-神州明见（安卓版4.2）https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
+<a href="https://git.io/hzhen"></a>神州明见（安卓版4.2）https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
 
-环门（安卓版034）https://cdn.jsdelivr.net/gh/opipe/up/oGatea.apk
+<a href="https://cdn.jsdelivr.net/gh/opipe/up/oGatea.apk">环门（安卓版034）</a>
