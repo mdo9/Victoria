@@ -1,4 +1,4 @@
-<div align="center"><a href="https://git.io/hzhen"><IMG SRC="https://github.com/gofanben/gm/blob/master/img-2/swspip.jpg" width=640></a>
+<div align="center"><a href="https://git.io/hzhen"><IMG SRC="https://github.com/ofn1/Victoria/blob/master/hzhen1.jpg" width=640></a>
 
 点击视频 https://bit.ly/2VIs51L
 
