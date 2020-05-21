@@ -2,7 +2,7 @@
 
 点击视频 https://github.com/gofanben/gm/blob/master/swsp.md
 
-<div align="center"><a href="https://git.io/hzhen"><IMG SRC="https://https://github.com/gofanben/gm/blob/master/img/fngrchn3.jpg" width=640></a>
+<div align="center"><a href="https://git.io/hzhen"><IMG SRC="https://github.com/ofn1/Victoria/blob/master/fngrchn3.jpg" width=640></a>
 
 为持续能看到真实信息，请記下汇真网短链接：https://git.io/hzhen，并下载「无界浏览」与「自由门」「神州明见」等破网工具
 
