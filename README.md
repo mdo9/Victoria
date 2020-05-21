@@ -4,10 +4,16 @@
 
 为持续能看到真实信息，请記下汇真网短链接：https://git.io/hzhen，并下载「无界浏览」与「自由门」「神州明见」等破网工具
 
-无界浏览（安卓版4.8）http://wujieliulan.com/download/um.apk
+[无界浏览（安卓版4.8）](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.1/um.apk)
 
-[自由门（电脑版7.80）](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.0/fg780p.zip)
+[无界浏览（电脑版19.02）](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.1/u1902.zip)
 
-<a href="https://git.io/hzhen"></a>神州明见（安卓版4.2）https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
+[自由门（安卓版4.0)](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.1/fgma40.apk)
 
-<a href="https://cdn.jsdelivr.net/gh/opipe/up/oGatea.apk">环门（安卓版034）</a>
+[自由门（电脑版7.80）](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.1/fg780p.zip)
+
+[神州明见（安卓版4.2）](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.1/SzzdOgate.apk)
+
+[环门（安卓版034）](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.1/oGatea.apk)
+
+[环门（电脑版038）](https://cdn.jsdelivr.net/gh/ofn1/zhenzhen@1.1/oGate.zip)
