@@ -1,6 +1,7 @@
 <div align="center"><a href="https://is.gd/1o3ZD2"><IMG SRC="https://github.com/ofn1/Victoria/blob/master/hzhen2.jpg" width=640></a>
-为持续能看到真实信息，请记下汇真网短链接：https://git.io/hzhen
-***
+<div align=center><h2>请收藏本站网址：https://git.io/hzhen </h2></div>
+
+**
 <h3><b><a href="https://is.gd/1o3ZD2">● 滙真网入口1 ● </a></b></h3></div>
   
 <h3><b><a href="https://cutt.ly/ByI9usE">● 滙真网入口2 ● </a></b></h3></div>
