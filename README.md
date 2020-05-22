@@ -1,10 +1,11 @@
 <div align="center"><a href="https://is.gd/1o3ZD2"><IMG SRC="https://github.com/ofn1/Victoria/blob/master/hzhen2.jpg" width=640></a>
 <div align=center><h2>请收藏本站网址：https://git.io/hzhen </h2></div>
 
-**
-<h3><b><a href="https://is.gd/1o3ZD2">● 滙真网入口1 ● </a></b></h3></div>
+
+<div align=center><h3><b><a href="https://is.gd/1o3ZD2">● 滙真网入口1 ● </a></b></h3></div>
   
-<h3><b><a href="https://cutt.ly/ByI9usE">● 滙真网入口2 ● </a></b></h3></div>
+<div align=center><h3><b><a href="https://cutt.ly/ByI9usE">● 滙真网入口2 ● </a></b></h3></div>
+
 点击视频 https://github.com/gofanben/gm/blob/master/swsp.md
 
 <div align="center"><a href="https://git.io/hzhen"><IMG SRC="https://github.com/ofn1/Victoria/blob/master/fngrchn3.jpg" width=640></a>
