@@ -1,5 +1,5 @@
 <div align="center"><a href="https://is.gd/1o3ZD2"><IMG SRC="https://github.com/ofn1/Victoria/blob/master/hzhen2.jpg" width=640></a>
-<div align=center><h2>请收藏本站网址：https://git.io/hzhen </h2></div>
+<div align=center><h2>收藏本站网址：https://git.io/hzhen </h2></div>
 
 
 <div align=center><h3><b><a href="https://is.gd/1o3ZD2">● 滙真网入口1 ● </a></b></h3></div>
