@@ -2,7 +2,7 @@
 <div align=center><h2>收藏本站网址：https://git.io/hzhen </h2></div>
 
 
-<div align=center><h3><b><a href="https://is.gd/1o3ZD2">● 滙真网入口1 ● </a></b></h3></div>
+<div align=center><summary><h3><b><a href="https://is.gd/1o3ZD2">● 滙真网入口1 ● </a></b></h3></summary></div>
   
 <div align=center><h3><b><a href="https://cutt.ly/ByI9usE">● 滙真网入口2 ● </a></b></h3></div>
 
